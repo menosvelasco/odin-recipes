@@ -1,0 +1,16 @@
+body {
+  margin: auto 0;
+  padding: 0;
+  text-align: center;
+}
+.imglasagna {
+  width: 30%;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+}
+ol {
+  display: table;
+  margin: 0 auto;
+}
