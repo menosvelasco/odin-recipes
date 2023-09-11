@@ -3,14 +3,21 @@ body {
   padding: 0;
   text-align: center;
 }
+.back-home {
+  display: block;
+}
 img {
   width: 30%;
 }
 ul {
-  display: table;
+  display: inline-block;
   margin: 0 auto;
 }
 ol {
   display: table;
   margin: 0 auto;
+}
+.steps {
+  /* outline: 1px solid red; */
+  margin-bottom: 20px;
 }
